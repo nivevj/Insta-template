@@ -1,2 +1,2 @@
 # Insta-template
-A basic instagram like template built using html and css
+A basic instagram like template built using html and css.
